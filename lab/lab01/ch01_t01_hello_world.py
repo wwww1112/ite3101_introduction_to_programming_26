@@ -1,2 +1,2 @@
 print("Hello, world!")
-print("Water-there is not a drop of water there!")
+print("Water-there is not a drop of water there!Were Nigara but")
