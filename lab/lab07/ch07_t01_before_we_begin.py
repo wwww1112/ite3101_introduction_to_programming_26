@@ -1,4 +1,4 @@
 def answer（） -> int：
     return 42
              （） -> int
-print（
+print（answer（））
