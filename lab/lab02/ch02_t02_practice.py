@@ -1,2 +1,4 @@
 # Assign your variables below, each on its own line!
-ca
+caesar = "Graham"
+praline = "John"
+v
