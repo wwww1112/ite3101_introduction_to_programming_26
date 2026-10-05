@@ -1,1 +1,1 @@
-# Assign your variables below, each on it
+# Assign your variables below, each on its own line!
