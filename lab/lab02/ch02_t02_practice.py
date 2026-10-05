@@ -1,1 +1,1 @@
-# Assign your variables below, 
+# Assign your variables below, each 
