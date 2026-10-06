@@ -1,1 +1,1 @@
-animal_count
+animal_counts = {}
