@@ -1,2 +1,3 @@
 animal_counts = {
-    "ant: 3,
+    "ant": 3,
+    
