@@ -7,4 +7,5 @@ webster = {
 
 # Add your code below!
 for key in webster:
-    print(webster )
+    print(webster [key])
+    
