@@ -3,6 +3,5 @@ for i in range(5):
     board.append(['O'] * 5)
 
 def print_borad(board_in:List[list[str]]):
-    for row in borad in:
+    for row in borad_in:
         print(" ".join(row))
-        
