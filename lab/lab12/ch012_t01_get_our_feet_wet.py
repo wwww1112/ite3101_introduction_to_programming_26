@@ -1,1 +1,1 @@
-Generote
+Generate
