@@ -10,4 +10,4 @@ def print_board(board_in: List[List[str]]) -> None:
         print(" .join(row))
 
 
-print borad
+print borad(b)
