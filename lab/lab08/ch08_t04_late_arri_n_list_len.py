@@ -2,7 +2,9 @@ suitcase = []
 suitcase.append("sunglasses")
 
 # Your code here!
-
+suitcase.append("Jacket")
+suitcase.append("T-shirt")
+suitcase.append("bathing suit")
 
 list_length = 1  # Set this to the length of suitcase
 
